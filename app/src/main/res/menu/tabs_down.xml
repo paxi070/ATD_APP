@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_bottom_discover"
+        android:icon="@drawable/ic_discover"
+        android:title="DISCOVER" />
+
+    <item
+        android:id="@+id/tab_bottom_maps"
+        android:icon="@drawable/ic_maps"
+        android:title="MAPS" />
+
+    <item
+        android:id="@+id/tab_bottom_add"
+        android:icon="@drawable/ic_add"
+        android:title="ADD" />
+
+    <item
+        android:id="@+id/tab_bottom_save"
+        android:icon="@drawable/ic_save"
+        android:title="SAVED" />
+
+    <item
+        android:id="@+id/tab_bottom_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="PROFILE" />
+</menu>
